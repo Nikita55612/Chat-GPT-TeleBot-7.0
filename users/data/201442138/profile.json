@@ -1,0 +1,20 @@
+{
+    "tokens": 20000,
+    "limit_tokens": 16000,
+    "balance": 0,
+    "status": "user",
+    "model": "deepseek_chat",
+    "language": "en",
+    "registration_dt": 1682994572.270772,
+    "last_reset_limit_dt": 1709139335.9404254,
+    "hours_deff_reset": 0,
+    "hours_reset_limit": 96,
+    "context": [],
+    "max_context_buffer": 2,
+    "last_history_update_dt": 1709139335.941425,
+    "load_history_dt": 1708436387.160761,
+    "count_limit_tokens_reset": 0,
+    "payments": [],
+    "last_payment_verification_dt": 1708436387.160761,
+    "last_send_invoice_dt": 1708436387.160761
+}
